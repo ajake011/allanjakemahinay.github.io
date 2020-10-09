@@ -1,0 +1,35 @@
+html{
+    font-size: 10px;
+    font-family: 'Amatic SC', cursive;;
+    background-color: black;
+}
+body{
+    width: 700px;
+    height: 500px;
+    margin: 0  auto;
+    background-color: cyan;
+    padding: 0 20px 20px 20px;
+    border: 10px solid green;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: black;
+    text-shadow: 6px 6px 6px red;
+}
+p{
+    text-align: center;
+    width: auto;
+    font-size: 19px;
+    color: black;
+    line-height: 1.5;
+    letter-spacing: 1.5;
+    padding: 1px 0;
+}
+img{
+    display: block;
+    height: 200px;
+    margin: 0 auto;
+}
